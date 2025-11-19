@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pictures/rest.jpg" alt="Banner de Bastian" width="100%" style="border-radius: 10px;" />
+  <img src="./píctures/rest.jpg" alt="Banner de Bastian" width="100%" style="border-radius: 10px;" />
   
   <h1>¡Hola! soy Bastian Apablaza 👋</h1>
   
