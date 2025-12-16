@@ -60,6 +60,7 @@ Apasionado por la programación y estudiante de **INACAP**. Me caracterizo por a
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | [**ImpulsaMente Web**](https://github.com/LuSpacel/impulsamente-web) | **Líder de Proyecto & Fullstack.** Plataforma de conexión psicológica y metodologica para tesistas con agendamiento y planes integrales. | `React` `Django` `PostgreSQL` |
+| [**Sabores Web**]((https://github.com/Park-Ocean/Proyecto-sabores)) | **FullStack** Plataforma basada en roles para la gestion de pedidos y clientes | `React` `Firebase` |
 
 ---
 
